@@ -1,2 +1,4 @@
 - Hello, welcome to my castle.
 - I'm delores.
+- ![delores0217.jpg](../assets/delores0217_1647934026396_0.jpg){:height 625, :width 617}
+-
