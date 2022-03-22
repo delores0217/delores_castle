@@ -1,0 +1,2 @@
+- Hello, welcome to my castle.
+- I'm delores.
