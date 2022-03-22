@@ -1,4 +1,7 @@
-[{:block/name "a",
+[{:block/name "2022-03-22 tuesday",
+  :block/created-at 1647933440677,
+  :block/updated-at 1647933440677}
+ {:block/name "a",
   :block/created-at 1647933440613,
   :block/updated-at 1647933440613}
  {:block/name "b",
@@ -28,9 +31,6 @@
  {:block/name "later",
   :block/created-at 1647933440613,
   :block/updated-at 1647933440613}
- {:block/name "mar 22nd, 2022",
-  :block/created-at 1647933405369,
-  :block/updated-at 1647933405369}
  {:block/name "now",
   :block/created-at 1647933440614,
   :block/updated-at 1647933440614}
